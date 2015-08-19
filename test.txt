@@ -1,1 +1,6 @@
+
 User B changes.
+	Kept both changes.
+User A changes.
+
+
